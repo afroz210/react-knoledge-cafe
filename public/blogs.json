@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover-photo": "https://i.ibb.co.com/KF5YGFc/pexels-aadil-5417957.jpg",
+      "title": "The Journey Beyond",
+      "author": "Jane Doe",
+      "author-image": "https://i.ibb.co.com/qMsDkMZ/pexels-mastercowley-1300402.jpg",
+      "posted-date": "2024-10-10",
+      "reading-time": 5,
+      "hashtags": ["#adventure", "#fantasy", "#journey"]
+    },
+    {
+      "id": 2,
+      "cover-photo": "https://i.ibb.co.com/jhsGKfQ/pexels-miami302-29017832.jpg",
+      "title": "Digital Dreams",
+      "author": "John Smith",
+      "author-image": "https://i.ibb.co.com/NmBQK85/pexels-olly-774909.jpg",
+      "posted-date": "2024-09-15",
+      "reading-time": 7,
+      "hashtags": ["#technology", "#future", "#scifi"]
+    },
+    {
+      "id": 3,
+      "cover-photo": "https://i.ibb.co.com/CPVKwtQ/pexels-jakubzerdzicki-29046968.jpg",
+      "title": "Whispers in the Forest",
+      "author": "Emma Stone",
+      "author-image": "https://i.ibb.co.com/MSHK9Px/pexels-baphi-1752126.jpg",
+      "posted-date": "2024-08-22",
+      "reading-time": 6,
+      "hashtags": ["#mystery", "#thriller", "#nature"]
+    },
+    {
+      "id": 4,
+      "cover-photo": "https://i.ibb.co.com/JCB28sh/online-blog.jpg",
+      "title": "Echoes of the Past",
+      "author": "Michael Lee",
+      "author-image": "https://i.ibb.co.com/XJQ0Trw/pexels-j-sarkar-368375-991509.jpg",
+      "posted-date": "2024-07-30",
+      "reading-time": 8,
+      "hashtags": ["#history", "#drama", "#war"]
+    },
+    {
+      "id": 5,
+      "cover-photo": "https://i.ibb.co.com/Z2QMbRw/aerial-view-man-working-computer.jpg",
+      "title": "The Cosmic Voyage",
+      "author": "Sarah Connor",
+      "author-image": "https://i.ibb.co.com/1KJ5W95/pexels-kahlibrown-29061361.jpg",
+      "posted-date": "2024-06-18",
+      "reading-time": 9,
+      "hashtags": ["#space", "#exploration", "#adventure"]
+    }
+  ]
+  
